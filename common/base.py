@@ -130,6 +130,14 @@ class Base:
         :return:
         """
         self.driver.quit()
+        
+    def close_browser_6(self):
+
+        """
+        关闭浏览器
+        :return:
+        """
+        self.driver.quit()    
 
 if __name__ == '__main__':
     driver = open_browser()

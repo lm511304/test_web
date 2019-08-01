@@ -17,8 +17,6 @@
 import pandas
 
 
-
-
 # # 读取表文件
 # table = pandas.read_excel('./test_data.xlsx')
 # # print(table.head())# 默认读取的是前5行的数据,不包括首行
