@@ -148,8 +148,5 @@ if __name__ == '__main__':
     # result = base.is_text_in_element(locator_news,text)
     # print(result)
     base.close_browser()
-    base.close_browser()
-    base.close_browser()
-
 
 
